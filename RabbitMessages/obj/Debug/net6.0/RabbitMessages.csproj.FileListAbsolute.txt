@@ -1,0 +1,12 @@
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\bin\Debug\net6.0\RabbitMessages.deps.json
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\bin\Debug\net6.0\RabbitMessages.dll
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\bin\Debug\net6.0\RabbitMessages.pdb
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\obj\Debug\net6.0\RabbitMessages.csproj.AssemblyReference.cache
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\obj\Debug\net6.0\RabbitMessages.GeneratedMSBuildEditorConfig.editorconfig
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\obj\Debug\net6.0\RabbitMessages.AssemblyInfoInputs.cache
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\obj\Debug\net6.0\RabbitMessages.AssemblyInfo.cs
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\obj\Debug\net6.0\RabbitMessages.csproj.CoreCompileInputs.cache
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\obj\Debug\net6.0\RabbitMessages.dll
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\obj\Debug\net6.0\refint\RabbitMessages.dll
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\obj\Debug\net6.0\RabbitMessages.pdb
+Z:\NetCore\Tasks\WebTasks\RabbitMessages\obj\Debug\net6.0\ref\RabbitMessages.dll

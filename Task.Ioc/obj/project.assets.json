@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Task.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Task.domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Task.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task.Application.dll": {}
+        }
+      },
+      "Task.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Task.domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Task.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task.Data.dll": {}
+        }
+      },
+      "Task.domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Task.domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task.Application/1.0.0": {
+      "type": "project",
+      "path": "../Task.Application/Task.Application.csproj",
+      "msbuildProject": "../Task.Application/Task.Application.csproj"
+    },
+    "Task.Data/1.0.0": {
+      "type": "project",
+      "path": "../Task.Data/Task.Data.csproj",
+      "msbuildProject": "../Task.Data/Task.Data.csproj"
+    },
+    "Task.domain/1.0.0": {
+      "type": "project",
+      "path": "../Task.domain/Task.domain.csproj",
+      "msbuildProject": "../Task.domain/Task.domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Task.Application >= 1.0.0",
+      "Task.Data >= 1.0.0",
+      "Task.domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Futura\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Ioc\\Task.Ioc.csproj",
+      "projectName": "Task.Ioc",
+      "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Ioc\\Task.Ioc.csproj",
+      "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
+      "outputPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Ioc\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Futura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "Z:\\NetCore\\Tasks\\WebTasks\\Task.Application\\Task.Application.csproj": {
+              "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Application\\Task.Application.csproj"
+            },
+            "Z:\\NetCore\\Tasks\\WebTasks\\Task.Data\\Task.Data.csproj": {
+              "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Data\\Task.Data.csproj"
+            },
+            "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj": {
+              "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

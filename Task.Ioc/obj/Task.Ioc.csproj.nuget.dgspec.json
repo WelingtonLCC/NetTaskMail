@@ -1,0 +1,246 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\NetCore\\Tasks\\WebTasks\\Task.Ioc\\Task.Ioc.csproj": {}
+  },
+  "projects": {
+    "Z:\\NetCore\\Tasks\\WebTasks\\Task.Application\\Task.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Application\\Task.Application.csproj",
+        "projectName": "Task.Application",
+        "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Application\\Task.Application.csproj",
+        "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
+        "outputPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Futura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj": {
+                "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\NetCore\\Tasks\\WebTasks\\Task.Data\\Task.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Data\\Task.Data.csproj",
+        "projectName": "Task.Data",
+        "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Data\\Task.Data.csproj",
+        "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
+        "outputPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Futura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj": {
+                "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj",
+        "projectName": "Task.domain",
+        "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj",
+        "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
+        "outputPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Futura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\NetCore\\Tasks\\WebTasks\\Task.Ioc\\Task.Ioc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Ioc\\Task.Ioc.csproj",
+        "projectName": "Task.Ioc",
+        "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Ioc\\Task.Ioc.csproj",
+        "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
+        "outputPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Ioc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Futura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Z:\\NetCore\\Tasks\\WebTasks\\Task.Application\\Task.Application.csproj": {
+                "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Application\\Task.Application.csproj"
+              },
+              "Z:\\NetCore\\Tasks\\WebTasks\\Task.Data\\Task.Data.csproj": {
+                "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.Data\\Task.Data.csproj"
+              },
+              "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj": {
+                "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Task.domain\\Task.domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

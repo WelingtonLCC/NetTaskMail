@@ -1,0 +1,17 @@
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\bin\Debug\net6.0\Sender.InfraData.deps.json
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\bin\Debug\net6.0\Sender.InfraData.runtimeconfig.json
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\bin\Debug\net6.0\Sender.InfraData.dll
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\bin\Debug\net6.0\Sender.InfraData.pdb
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\bin\Debug\net6.0\Sender.Domain.dll
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\bin\Debug\net6.0\Sender.Domain.pdb
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\Sender.InfraData.csproj.AssemblyReference.cache
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\Sender.InfraData.GeneratedMSBuildEditorConfig.editorconfig
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\Sender.InfraData.AssemblyInfoInputs.cache
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\Sender.InfraData.AssemblyInfo.cs
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\Sender.InfraData.csproj.CoreCompileInputs.cache
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\Sender.InfraData.csproj.CopyComplete
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\Sender.InfraData.dll
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\refint\Sender.InfraData.dll
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\Sender.InfraData.pdb
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\Sender.InfraData.genruntimeconfig.cache
+Z:\NetCore\Tasks\WebTasks\Sender.InfraData\obj\Debug\net6.0\ref\Sender.InfraData.dll

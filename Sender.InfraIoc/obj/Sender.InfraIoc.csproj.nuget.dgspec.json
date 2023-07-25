@@ -1,0 +1,308 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraIoc\\Sender.InfraIoc.csproj": {}
+  },
+  "projects": {
+    "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Application\\Sender.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Application\\Sender.Application.csproj",
+        "projectName": "Sender.Application",
+        "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Application\\Sender.Application.csproj",
+        "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
+        "outputPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Futura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Domain\\Sender.Domain.csproj": {
+                "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Domain\\Sender.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Domain\\Sender.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Domain\\Sender.Domain.csproj",
+        "projectName": "Sender.Domain",
+        "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Domain\\Sender.Domain.csproj",
+        "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
+        "outputPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Futura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraData\\Sender.InfraData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraData\\Sender.InfraData.csproj",
+        "projectName": "Sender.InfraData",
+        "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraData\\Sender.InfraData.csproj",
+        "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
+        "outputPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Futura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Domain\\Sender.Domain.csproj": {
+                "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Domain\\Sender.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraIoc\\Sender.InfraIoc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraIoc\\Sender.InfraIoc.csproj",
+        "projectName": "Sender.InfraIoc",
+        "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraIoc\\Sender.InfraIoc.csproj",
+        "packagesPath": "C:\\Users\\Futura\\.nuget\\packages\\",
+        "outputPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraIoc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Futura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Application\\Sender.Application.csproj": {
+                "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.Application\\Sender.Application.csproj"
+              },
+              "Z:\\NetCore\\Tasks\\WebTasks\\Sender.domain\\Sender.domain.csproj": {
+                "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.domain\\Sender.domain.csproj"
+              },
+              "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraData\\Sender.InfraData.csproj": {
+                "projectPath": "Z:\\NetCore\\Tasks\\WebTasks\\Sender.InfraData\\Sender.InfraData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

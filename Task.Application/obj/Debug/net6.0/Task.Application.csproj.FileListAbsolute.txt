@@ -1,0 +1,17 @@
+Z:\NetCore\Tasks\WebTasks\Task.Application\bin\Debug\net6.0\Task.Application.deps.json
+Z:\NetCore\Tasks\WebTasks\Task.Application\bin\Debug\net6.0\Task.Application.dll
+Z:\NetCore\Tasks\WebTasks\Task.Application\bin\Debug\net6.0\Task.Application.pdb
+Z:\NetCore\Tasks\WebTasks\Task.Application\bin\Debug\net6.0\Task.domain.dll
+Z:\NetCore\Tasks\WebTasks\Task.Application\bin\Debug\net6.0\Task.domain.pdb
+Z:\NetCore\Tasks\WebTasks\Task.Application\obj\Debug\net6.0\Task.Application.csproj.AssemblyReference.cache
+Z:\NetCore\Tasks\WebTasks\Task.Application\obj\Debug\net6.0\Task.Application.GeneratedMSBuildEditorConfig.editorconfig
+Z:\NetCore\Tasks\WebTasks\Task.Application\obj\Debug\net6.0\Task.Application.AssemblyInfoInputs.cache
+Z:\NetCore\Tasks\WebTasks\Task.Application\obj\Debug\net6.0\Task.Application.AssemblyInfo.cs
+Z:\NetCore\Tasks\WebTasks\Task.Application\obj\Debug\net6.0\Task.Application.csproj.CoreCompileInputs.cache
+Z:\NetCore\Tasks\WebTasks\Task.Application\obj\Debug\net6.0\Task.Application.csproj.CopyComplete
+Z:\NetCore\Tasks\WebTasks\Task.Application\obj\Debug\net6.0\Task.Application.dll
+Z:\NetCore\Tasks\WebTasks\Task.Application\obj\Debug\net6.0\refint\Task.Application.dll
+Z:\NetCore\Tasks\WebTasks\Task.Application\obj\Debug\net6.0\Task.Application.pdb
+Z:\NetCore\Tasks\WebTasks\Task.Application\obj\Debug\net6.0\ref\Task.Application.dll
+Z:\NetCore\Tasks\WebTasks\Task.Application\bin\Debug\net6.0\RabbitMessages.dll
+Z:\NetCore\Tasks\WebTasks\Task.Application\bin\Debug\net6.0\RabbitMessages.pdb

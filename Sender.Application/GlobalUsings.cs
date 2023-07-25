@@ -1,0 +1,10 @@
+﻿global using AutoMapper;
+global using Sender.Application.DTOs;
+global using Sender.Domain.Entities;
+global using MediatR;
+global using Sender.Application.CommandQueries.SenderConfig.Queries;
+global using Sender.Application.CommandQueries.SenderConfig.Commands;
+global using Sender.Domain.Interfaces;
+global using Sender.Application.CommandQueries.SenderMail.Queries;
+global using Sender.Application.CommandQueries.SenderMail.Commands;
+global using Sender.Application.Interfaces;

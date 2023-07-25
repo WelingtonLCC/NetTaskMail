@@ -1,0 +1,12 @@
+Z:\NetCore\Tasks\WebTasks\Task.domain\bin\Debug\net6.0\Task.domain.deps.json
+Z:\NetCore\Tasks\WebTasks\Task.domain\bin\Debug\net6.0\Task.domain.dll
+Z:\NetCore\Tasks\WebTasks\Task.domain\bin\Debug\net6.0\Task.domain.pdb
+Z:\NetCore\Tasks\WebTasks\Task.domain\obj\Debug\net6.0\Task.domain.csproj.AssemblyReference.cache
+Z:\NetCore\Tasks\WebTasks\Task.domain\obj\Debug\net6.0\Task.domain.GeneratedMSBuildEditorConfig.editorconfig
+Z:\NetCore\Tasks\WebTasks\Task.domain\obj\Debug\net6.0\Task.domain.AssemblyInfoInputs.cache
+Z:\NetCore\Tasks\WebTasks\Task.domain\obj\Debug\net6.0\Task.domain.AssemblyInfo.cs
+Z:\NetCore\Tasks\WebTasks\Task.domain\obj\Debug\net6.0\Task.domain.csproj.CoreCompileInputs.cache
+Z:\NetCore\Tasks\WebTasks\Task.domain\obj\Debug\net6.0\Task.domain.dll
+Z:\NetCore\Tasks\WebTasks\Task.domain\obj\Debug\net6.0\refint\Task.domain.dll
+Z:\NetCore\Tasks\WebTasks\Task.domain\obj\Debug\net6.0\Task.domain.pdb
+Z:\NetCore\Tasks\WebTasks\Task.domain\obj\Debug\net6.0\ref\Task.domain.dll
